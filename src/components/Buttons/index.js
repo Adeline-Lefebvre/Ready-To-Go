@@ -33,7 +33,7 @@ const Buttons = () => {
       </div>
 
       <div>
-        {switch3 ? (
+        {switch2 ? (
           <div className="go">Go !</div>
         ) : (
           <div className="noWay">No Way !</div>
